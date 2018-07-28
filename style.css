@@ -1,10 +1,28 @@
 
 .center{
     text-align: center;
+
 }
 .gambar{
     background-image: url('http://i66.tinypic.com/28am9fs.jpg');
     background-size: cover;
     text-align: center;
-
+}
+.pakding{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+body{
+    background-color: #FAFAFA;
+}
+.batas-margin{
+    margin-left: auto;
+    margin-right: auto;
+}
+.sponsor-body{
+    background-color: white;
+    border-bottom: 1px solid #e7e7e7;
+    border-top: 1px solid #e7e7e7; 
+    margin-bottom: 10px;
+    
 }
